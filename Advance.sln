@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Advance", "Advance\Advance.csproj", "{AE938BDB-CF53-43AE-94BD-3B2CB70424C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateRealLife", "DelegateRealLife\DelegateRealLife.csproj", "{EAADFC64-DBF4-4DF7-A01F-2D721EC3F784}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateRealLife", "DelegateRealLife\DelegateRealLife.csproj", "{EAADFC64-DBF4-4DF7-A01F-2D721EC3F784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpression", "LambdaExpression\LambdaExpression.csproj", "{1FE14B0C-41E0-424F-A75D-6D631AE3C11A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EAADFC64-DBF4-4DF7-A01F-2D721EC3F784}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAADFC64-DBF4-4DF7-A01F-2D721EC3F784}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAADFC64-DBF4-4DF7-A01F-2D721EC3F784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE14B0C-41E0-424F-A75D-6D631AE3C11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE14B0C-41E0-424F-A75D-6D631AE3C11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE14B0C-41E0-424F-A75D-6D631AE3C11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE14B0C-41E0-424F-A75D-6D631AE3C11A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
